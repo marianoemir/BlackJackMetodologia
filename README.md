@@ -1,0 +1,2 @@
+# BlackJackMetodologia
+Proyecto para metodologia 
